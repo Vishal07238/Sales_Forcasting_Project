@@ -1,0 +1,13 @@
+# Large data
+data/*.csv
+data/*.xls
+data/*.xlsx
+
+# Models
+models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
